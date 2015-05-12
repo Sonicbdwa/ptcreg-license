@@ -1,0 +1,1 @@
+All1tool plugin license
